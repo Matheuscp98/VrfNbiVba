@@ -45,6 +45,6 @@ Description and Use of the Code:
 <br>
 <br>
 *Contact:
--E-mail: matheusc_pereira@hotmail.com
--Linkedin: https://www.linkedin.com/in/matheuscostapereira/
--Lattes: https://lattes.cnpq.br/7025666927284220
+-E-mail: matheusc_pereira@hotmail.com<br>
+-Linkedin: https://www.linkedin.com/in/matheuscostapereira/<br>
+-Lattes: https://lattes.cnpq.br/7025666927284220<br>
