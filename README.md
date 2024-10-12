@@ -34,7 +34,7 @@ Here are some figures related to the Excel sheets used in this project:
    *Initial screen of the NBI-VRF 3x3Y sheet.*
 
 3. **NBI-VRF 3x3Y - Metrics, Constraints, and VarCovar**  
-   ![NBI-VRF 3x3Y - Metrics, Constraints, and VarCovar](NBI-VRF 3x3Y_Metrics,Constrains,andVarCovar.jpg)  
+   ![NBI-VRF-3x3Y_MetricsConstrainsandVarCovar](NBI-VRF-3x3Y_MetricsConstrainsandVarCovar.jpg).
    *Metrics (NED, GPE, S, S/GPE, MD, and GD), constraints (g1(x), g2(x), g3(x), and g4(x)), payoff matrix of rotated factors, and variance-covariance matrix of rotated factors.*
 
 4. **NBI-VRF 3x3Y - NBI Points**  
@@ -54,7 +54,7 @@ Here are some figures related to the Excel sheets used in this project:
    *Complete initial screen of the NBI-VRF Post sheet.*
 
 8. **NBI-VRF RSM - Home**  
-   ![NBI-VRF RSM - Home](NBI-VRF-RSM Home.jpg)  
+   ![NBI-VRF-RSM_Home](NBI-VRF-RSM_Home.jpg)  
    *Complete initial screen of the NBI-VRF RSM sheet.*
 
 ## VBA Routines/Buttons
