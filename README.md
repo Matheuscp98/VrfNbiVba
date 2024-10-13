@@ -3,9 +3,9 @@
 ## Description
 
 This VBA code implements the complete process for the **Varimax Rotated Factor Normal Boundary Intersection (VRF-NBI)** method, as described in the papers:
-- ["A Hybrid Multivariate Normal Boundary Intersection Approach with Post-Optimization Assisted by Mixture Design of Experiments"](link);
-- ["Nonlinear Multiobjective Optimization of Efficiency Conditions using a CFD-DOE Hybrid Approach: A Practical Application in Centrifugal Fans for Industrial Ovens"](link);
-- ["Multiobjective Optimization in Machining Processes with High Dimensionality: An Approach to Post-Pareto Decision Making"](link).
+- [A Hybrid Multivariate Normal Boundary Intersection Approach with Post-Optimization Assisted by Mixture Design of Experiments](link);
+- [Nonlinear Multiobjective Optimization of Efficiency Conditions using a CFD-DOE Hybrid Approach: A Practical Application in Centrifugal Fans for Industrial Ovens](link);
+- [Multiobjective Optimization in Machining Processes with High Dimensionality: An Approach to Post-Pareto Decision Making](link).
 
 The code is designed to be run within Excel and covers everything from individual optimization to the NBI process, including post-optimization routines and additional utilities for formatting.
 
