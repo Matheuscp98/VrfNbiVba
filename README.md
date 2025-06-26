@@ -31,7 +31,7 @@ In addition to ongoing manuscripts, the following public papers are already avai
   [Read here](https://publicacoes.softaliza.com.br/cilamce/article/view/8110/6998)
 
 - **Otimização Multiobjetivo de Custos e Qualidade de Simulações de CFD: Explorando a Fronteira de Pareto**  
-  [Leia aqui](https://proceedings.science/sbpo/sbpo-2024/trabalhos/otimizacao-multiobjetivo-de-custos-e-qualidade-de-simulacoes-de-cfd-explorando-a?lang=pt-br)
+  [Read here](https://proceedings.science/sbpo/sbpo-2024/trabalhos/otimizacao-multiobjetivo-de-custos-e-qualidade-de-simulacoes-de-cfd-explorando-a?lang=pt-br)
 
 ---
 
