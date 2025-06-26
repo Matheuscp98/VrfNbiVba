@@ -5,7 +5,8 @@
 This repository contains VBA code that implements the **Varimax Rotated Factor Normal Boundary Intersection (VRF-NBI)** method.
 
 The code is designed to run **inside Excel** and covers everything from individual optimization to the full NBI process, including post-optimization routines, utilities for formatting, and visualization.  
-A **Python implementation** of the VRF-NBI method is also available: [VRF-NBI in Python](https://github.com/Matheuscp98/VRF_NBI).
+
+> For Python implementation of the method, see: [VRF-NBI in Python](https://github.com/Matheuscp98/VRF_NBI).
 
 ---
 
