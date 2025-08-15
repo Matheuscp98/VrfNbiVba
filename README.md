@@ -24,13 +24,13 @@ The code is designed to run **inside Excel** and covers everything from individu
 
 In addition to ongoing manuscripts, the following public papers are already available:
 
+- **Nonlinear Multiobjective Optimization of Efficiency Conditions using a CFD-DOE Hybrid Approach: A Practical Application in Centrifugal Fans for Industrial Ovens**  
+  [Read here](https://www.sciencedirect.com/science/article/pii/S2451904925006900)
 - **Strategies in Decision Making in a Multiobjective Context: Integration of DOE, NBI, and CFD in the Optimization of a Centrifugal Fan**  
   [Read here](https://publicacoes.softaliza.com.br/cilamce/article/view/10211/7235)
-
 - **Optimizing Mesh and CFD Simulation Performance: A Multivariate Analysis Approach**  
   [Read here](https://publicacoes.softaliza.com.br/cilamce/article/view/8110/6998)
-
-- **Otimização Multiobjetivo de Custos e Qualidade de Simulações de CFD: Explorando a Fronteira de Pareto**  
+- **Multiobjective optimization of CFD simulation costs and quality: Exploring the Pareto frontier** (*Otimização Multiobjetivo de Custos e Qualidade de Simulações de CFD: Explorando a Fronteira de Pareto*)  
   [Read here](https://proceedings.science/sbpo/sbpo-2024/trabalhos/otimizacao-multiobjetivo-de-custos-e-qualidade-de-simulacoes-de-cfd-explorando-a?lang=pt-br)
 
 ---
