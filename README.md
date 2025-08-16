@@ -39,10 +39,10 @@ In addition to ongoing manuscripts, the following public papers are already avai
 
 | Worksheet             | Description                                                                   |
 |-----------------------|-------------------------------------------------------------------------------|
-| **NBI-VRF 3x3Y**      | Multi-objective optimization for 3 inputs and 3 outputs.                      |
+| **NBI-VRF 3x3Y**      | Multiobjective optimization (MO) for 3 inputs and 3 outputs.                      |
 | **NBI-VRF Post**      | Post-optimization using VRF-NBI for Mixture Design, with metrics as outputs.  |
-| **NBI-VRF RSM**       | Multi-objective optimization to find the "optimal of the optimals".           |
-| **NBI-VRF 3x8Y**      | Multi-objective optimization for 8 inputs and 8 outputs.                      |
+| **NBI-VRF RSM**       | Multiobjective optimization (MO) to find the "optimal of the optimals".           |
+| **NBI-VRF 3x8Y**      | Multiobjective optimization (MO) for 8 inputs and 8 outputs.                      |
 
 ---
 
