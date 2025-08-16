@@ -10,16 +10,6 @@ The code is designed to run **inside Excel** and covers everything from **indivi
 
 ---
 
-## 🛠️ How to Use
-
-1. **Clone or download** this repository to your **local machine**.  
-2. **Open** the **Excel file** containing the **VBA macros**.  
-3. **Enable macros** in **Excel**.  
-4. **Run** the desired **VBA routines** from the **VBA editor** or assign them to **buttons** in your **Excel sheets**.  
-5. Check the **detailed code comments** and **visual figures** for easier understanding!  
-
----
-
 ## 📚 Publications
 
 In addition to ongoing manuscripts, the following public papers are already available:
@@ -32,6 +22,16 @@ In addition to ongoing manuscripts, the following public papers are already avai
   [Read here](https://publicacoes.softaliza.com.br/cilamce/article/view/8110/6998)
 - **Multiobjective optimization of CFD simulation costs and quality: Exploring the Pareto frontier** (*Otimização Multiobjetivo de Custos e Qualidade de Simulações de CFD: Explorando a Fronteira de Pareto*)  
   [Read here](https://proceedings.science/sbpo/sbpo-2024/trabalhos/otimizacao-multiobjetivo-de-custos-e-qualidade-de-simulacoes-de-cfd-explorando-a?lang=pt-br)
+
+---
+
+## 🛠️ How to Use
+
+1. **Clone or download** this repository to your **local machine**.  
+2. **Open** the **Excel file** containing the **VBA macros**.  
+3. **Enable macros** in **Excel**.  
+4. **Run** the desired **VBA routines** from the **VBA editor** or assign them to **buttons** in your **Excel sheets**.  
+5. Check the **detailed code comments** and **visual figures** for easier understanding!  
 
 ---
 
