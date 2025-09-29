@@ -14,6 +14,8 @@ The code is designed to run **inside Excel** and covers everything from **indivi
 
 In addition to ongoing manuscripts, the following public papers are already available:
 
+- **A Hybrid Multivariate Normal Boundary Intersection Approach with Post-Optimization Assisted by Mixture Design of Experiments**
+  [In Press]
 - **Nonlinear Multiobjective Optimization of Efficiency Conditions using a CFD-DOE Hybrid Approach: A Practical Application in Centrifugal Fans for Industrial Ovens**  
   [Read here](https://www.sciencedirect.com/science/article/pii/S2451904925006900)
 - **Strategies in Decision Making in a Multiobjective Context: Integration of DOE, NBI, and CFD in the Optimization of a Centrifugal Fan**  
@@ -31,7 +33,8 @@ In addition to ongoing manuscripts, the following public papers are already avai
 2. **Open** the **Excel file** containing the **VBA macros**.  
 3. **Enable macros** in **Excel**.  
 4. **Run** the desired **VBA routines** from the **VBA editor** or assign them to **buttons** in your **Excel sheets**.  
-5. Check the **detailed code comments** and **visual figures** for easier understanding!  
+5. Use the dataset [**Data MCDM**](data_mcdm.csv) as an example to test and explore the functionalities.  
+6. Check the **detailed code comments** and **visual figures** for easier understanding!  
 
 ---
 
