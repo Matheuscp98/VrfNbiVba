@@ -14,7 +14,7 @@ The code is designed to run **inside Excel** and covers everything from **indivi
 
 In addition to ongoing manuscripts, the following public papers are already available:
 
-- **A Hybrid Multivariate Normal Boundary Intersection Approach with Post-Optimization Assisted by Mixture Design of Experiments**
+- **A Hybrid Multivariate Normal Boundary Intersection Approach with Post-Optimization Assisted by Mixture Design of Experiments**  
   [Read here](https://www.sciencedirect.com/science/article/pii/S0952197625025412)
 - **Nonlinear Multiobjective Optimization of Efficiency Conditions using a CFD-DOE Hybrid Approach: A Practical Application in Centrifugal Fans for Industrial Ovens**  
   [Read here](https://www.sciencedirect.com/science/article/pii/S2451904925006900)
