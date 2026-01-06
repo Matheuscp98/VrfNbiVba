@@ -20,10 +20,20 @@ In addition to ongoing manuscripts, the following public papers are already avai
   [Read here](https://www.sciencedirect.com/science/article/pii/S2451904925006900)
 - **Strategies in Decision Making in a Multiobjective Context: Integration of DOE, NBI, and CFD in the Optimization of a Centrifugal Fan**  
   [Read here](https://publicacoes.softaliza.com.br/cilamce/article/view/10211/7235)
+- **Nonlinear Multi-Objective Optimization of the Efficiency Conditions of a Centrifugal Fan for Ovens** (*Otimização Não-linear Multiobjetivo das Condições de Eficiência de um Ventilador Centrífugo para Fornos*)  
+  [Read here](https://www.even3.com.br/anais/iepg-summit-2023-388661/758560-otimizacao-nao-linear-multiobjetivo-das-condicoes-de-eficiencia-de-um-ventilador-centrifugo-para-fornos/) 
 - **Optimizing Mesh and CFD Simulation Performance: A Multivariate Analysis Approach**  
   [Read here](https://publicacoes.softaliza.com.br/cilamce/article/view/8110/6998)
 - **Multiobjective optimization of CFD simulation costs and quality: Exploring the Pareto frontier** (*Otimização Multiobjetivo de Custos e Qualidade de Simulações de CFD: Explorando a Fronteira de Pareto*)  
   [Read here](https://proceedings.science/sbpo/sbpo-2024/trabalhos/otimizacao-multiobjetivo-de-custos-e-qualidade-de-simulacoes-de-cfd-explorando-a?lang=pt-br)
+- **Factorial analysis by principal components applied to multi-objective optimization in the turning of hardened AISI 52100 steel** (*Análise Fatorial por Componentes Principais Aplicada à Otimização Multiobjetivo no Torneamento do Aço Endurecido AISI 52100*)  
+  [Read here](https://proceedings.science/sbpo/sbpo-2025/trabalhos/analise-fatorial-por-componentes-principais-aplicada-a-otimizacao-multiobjetivo?lang=pt-br)
+- **Modeling and optimization of roughness parameters in the turning process** (*Modelagem e Otimização de Parâmetros de Rugosidade no Processo de Torneamento*)  
+  [Read here](https://proceedings.science/sbpo/sbpo-2025/trabalhos/modelagem-e-otimizacao-de-parametros-de-rugosidade-no-processo-de-torneamento?lang=pt-br)
+- **Hybrid CFD-DOE Strategy for Multiobjective Optimization in Centrifugal Fans** (*Estratégia Híbrida CFD-DOE para Otimização Multiobjetivo em Ventiladores Centrífugos*)  
+  [Read here](https://www.even3.com.br/anais/3-science-business-connection/1087045-estrategia-hibrida-cfd-doe-para-otimizacao-multiobjetivo-em-ventiladores-centrifugos/)
+- **Abordagem Pareto-Ótima de Eficiência de Simulação pelo Equilíbrio de Custos e Precisão para Ciência e Negócios** (*A Pareto-Optimal Approach to Simulation Efficiency by Balancing Cost and Accuracy for Science and Business*)  
+  [Read here](https://www.even3.com.br/anais/3-science-business-connection/1087133-abordagem-pareto-otima-de-eficiencia-de-simulacao-pelo-equilibrio-de-custos-e-precisao-para-ciencia-e-negocios/)
 
 ---
 
